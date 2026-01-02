@@ -1,332 +1,52 @@
 [
-  {
-    "title": "Steal Like an Artist",
-    "asin": "0761169253",
-    "image_id": "51b6eEmH1pL",
-    "description": "A short, inspiring book that encourages artists to embrace influence and develop their own creative voice."
-  },
-  {
-    "title": "Art & Fear",
-    "asin": "0961454739",
-    "image_id": "51V8G4pKpzL",
-    "description": "A thoughtful look at the emotional challenges artists face when creating and sharing their work."
-  },
-  {
-    "title": "Drawing on the Right Side of the Brain",
-    "asin": "1585429201",
-    "image_id": "51ZY3jW5JkL",
-    "description": "A classic drawing book that teaches artists how to see shapes, proportions, and space accurately."
-  },
-  {
-    "title": "The Artist’s Way",
-    "asin": "1585421468",
-    "image_id": "41gZ7Y0KqkL",
-    "description": "A guided creative program designed to help artists overcome blocks and reconnect with inspiration."
-  },
-  {
-    "title": "The Art Spirit",
-    "asin": "0465002633",
-    "image_id": "51gQtaimRQL",
-    "description": "A timeless collection of lectures offering insight into the mindset and discipline of artists."
-  },
-  {
-    "title": "Ways of Seeing",
-    "asin": "0140135154",
-    "image_id": "41tYpG8pSUL",
-    "description": "An influential book that explores how images shape meaning, culture, and perception."
-  },
-  {
-    "title": "Color and Light",
-    "asin": "144030844X",
-    "image_id": "51uHtbkP6kL",
-    "description": "A practical guide to understanding color theory and lighting for painters and illustrators."
-  },
-  {
-    "title": "Figure Drawing for All It's Worth",
-    "asin": "0857680986",
-    "image_id": "41ZxZ0nE5XL",
-    "description": "Andrew Loomis’s essential guide to drawing the human figure with accuracy and movement."
-  },
-  {
-    "title": "Creative Confidence",
-    "asin": "038534936X",
-    "image_id": "41pP8F2GfFL",
-    "description": "A book that helps creatives build confidence and turn ideas into action."
-  },
-  {
-    "title": "The $12 Million Stuffed Shark",
-    "asin": "0060762781",
-    "image_id": "41QG7fsjTNL",
-    "description": "An accessible introduction to how value is created in the contemporary art market."
-  },
-  {
-    "title": "Just Kids",
-    "asin": "0743273560",
-    "image_id": "51C3YmC6aaaL",
-    "description": "Patti Smith’s memoir about art, friendship, and creative life in New York City."
-  },
-  {
-    "title": "Secret Garden",
-    "asin": "1780671065",
-    "image_id": "41a7K1P3nOL",
-    "description": "A highly popular illustrated coloring book that encourages relaxation and creativity."
-  },
-  {
-    "title": "The Art of Beatrix Potter",
-    "asin": "0811866973",
-    "image_id": "51kj1w2vPCL",
-    "description": "A visual collection showcasing Beatrix Potter’s original artwork and illustrations."
-  },
-  {
-    "title": "Interaction of Color",
-    "asin": "0300179359",
-    "image_id": "41fY4w5l3GL",
-    "description": "Josef Albers’ influential exploration of how colors interact and affect perception."
-  },
-  {
-    "title": "The Creative Habit",
-    "asin": "0743235274",
-    "image_id": "41rR7D6C3PL",
-    "description": "A practical book focused on building consistent creative routines."
-  },
-  {
-    "title": "Seven Days in the Art World",
-    "asin": "0393337128",
-    "image_id": "41X6Y9J6jZL",
-    "description": "A behind-the-scenes look at the global contemporary art scene."
-  },
-  {
-    "title": "Keep Going",
-    "asin": "1523506648",
-    "image_id": "51G3W4Q1rRL",
-    "description": "A motivational book about sustaining creativity over the long term."
-  },
-  {
-    "title": "The Practice",
-    "asin": "0593328973",
-    "image_id": "41N5O2E8fZL",
-    "description": "A guide to committing to creative work regardless of external validation."
-  },
-  {
-    "title": "The War of Art",
-    "asin": "1936891026",
-    "image_id": "41E3A9X9QDL",
-    "description": "A motivational book about overcoming resistance and developing discipline."
-  },
-  {
-    "title": "Ways of Drawing",
-    "asin": "1631590650",
-    "image_id": "41Y9gB5Tz9L",
-    "description": "A contemporary approach to drawing techniques and visual thinking."
-  },
-  {
-    "title": "The Elements of Drawing",
-    "asin": "019856396X",
-    "image_id": "41D1D0f4TUL",
-    "description": "A structured introduction to drawing fundamentals for beginners."
-  },
-  {
-    "title": "Painting What You Want to See",
-    "asin": "1600610583",
-    "image_id": "41P3Vh8U0AL",
-    "description": "A guide to developing personal style and artistic intention."
-  },
-  {
-    "title": "The Visual Story",
-    "asin": "0240814620",
-    "image_id": "51qYw8sKXCL",
-    "description": "A foundational book on visual storytelling and composition."
-  },
-  {
-    "title": "How to Draw",
-    "asin": "0399508021",
-    "image_id": "41Xv0mYz8xL",
-    "description": "Scott Robertson’s technical guide to perspective and drawing accuracy."
-  },
-  {
-    "title": "Anatomy for Sculptors",
-    "asin": "1735039020",
-    "image_id": "51Zq9YxY2ML",
-    "description": "A modern anatomy reference for artists working with the human form."
-  },
-  {
-    "title": "The Painter’s Handbook",
-    "asin": "0823054676",
-    "image_id": "41Qk9C8s1nL",
-    "description": "A comprehensive guide to painting materials and techniques."
-  },
-  {
-    "title": "Ways of Looking",
-    "asin": "1786271026",
-    "image_id": "41xQ5G9WqTL",
-    "description": "An exploration of visual culture and how we interpret images."
-  },
-  {
-    "title": "The Sketchbook Challenge",
-    "asin": "1440339027",
-    "image_id": "41m8p2n9YDL",
-    "description": "A creative prompt-based book to build a consistent sketching habit."
-  },
-  {
-    "title": "Drawing People",
-    "asin": "0770435344",
-    "image_id": "41s9q9Q9XHL",
-    "description": "A practical guide to drawing realistic and expressive people."
-  },
-  {
-    "title": "The Complete Color Harmony",
-    "asin": "1592535867",
-    "image_id": "41VfJ1D0J0L",
-    "description": "A reference book for understanding color combinations and palettes."
-  },
-  {
-    "title": "The Creative Act",
-    "asin": "0593652886",
-    "image_id": "41yFQm9K6XL",
-    "description": "Rick Rubin’s reflections on creativity, awareness, and artistic process."
-  },
-  {
-    "title": "Designing Design",
-    "asin": "4569627707",
-    "image_id": "41F3XKZ9gRL",
-    "description": "A deep dive into graphic design principles and visual communication."
-  },
-  {
-    "title": "The Story of Art",
-    "asin": "0714832472",
-    "image_id": "41i+ZzUKQXL",
-    "description": "Ernst Gombrich’s classic history of art from ancient to modern times."
-  },
-  {
-    "title": "Drawing Ideas",
-    "asin": "1616891743",
-    "image_id": "41lWxAGxL7L",
-    "description": "A guide to using sketching as a tool for creative problem solving."
-  },
-  {
-    "title": "Drawing for the Absolute and Utter Beginner",
-    "asin": "048640473X",
-    "image_id": "41F+d7jFJNL",
-    "description": "Step-by-step exercises for beginners to learn drawing fundamentals."
-  },
-  {
-    "title": "Color Choices",
-    "asin": "082301517X",
-    "image_id": "41a8O7M6BQL",
-    "description": "An inspiring guide for artists to choose color combinations effectively."
-  },
-  {
-    "title": "Mastering Composition",
-    "asin": "1631592849",
-    "image_id": "41YjV71JlFL",
-    "description": "Techniques to create visually compelling and balanced compositions."
-  },
-  {
-    "title": "The Art of Perspective",
-    "asin": "0823035521",
-    "image_id": "41ftb85HvPL",
-    "description": "A practical guide to mastering perspective in drawing and painting."
-  },
-  {
-    "title": "Color Theory: An Essential Guide",
-    "asin": "1600614961",
-    "image_id": "41sOWVh0XhL",
-    "description": "A visual guide to understanding and applying color theory in art."
-  },
-  {
-    "title": "The Sketchbook Project",
-    "asin": "1631593097",
-    "image_id": "41i7iTVN9PL",
-    "description": "A curated collection of artist sketchbooks and creative inspiration."
-  },
-  {
-    "title": "Perspective Made Easy",
-    "asin": "048640473X",
-    "image_id": "41F+d7jFJNL",
-    "description": "A simple guide to understanding linear perspective for artists."
-  },
-  {
-    "title": "Anatomy for Artists",
-    "asin": "0486262883",
-    "image_id": "41uVh28ZB9L",
-    "description": "A beginner-friendly guide to human anatomy for drawing and painting."
-  },
-  {
-    "title": "The Art of Composition",
-    "asin": "0486225326",
-    "image_id": "41k5UuKZnJL",
-    "description": "Step-by-step techniques for creating strong, balanced compositions."
-  },
-  {
-    "title": "How to Render",
-    "asin": "0823014298",
-    "image_id": "41hUGx7ZLBL",
-    "description": "A practical guide to rendering techniques for realistic illustrations."
-  },
-  {
-    "title": "Drawing the Head and Figure",
-    "asin": "082300298X",
-    "image_id": "41AUIJ3D9FL",
-    "description": "A master guide by Jack Hamm for drawing human figures and facial features."
-  },
-  {
-    "title": "Design Basics",
-    "asin": "1285176532",
-    "image_id": "41X7sy+n0fL",
-    "description": "A foundational book on design principles for visual artists and graphic designers."
-  },
-  {
-    "title": "Mastering Color",
-    "asin": "0823019485",
-    "image_id": "41S5IQx1VQL",
-    "description": "An advanced guide to understanding and applying color effectively in artworks."
-  },
-  {
-    "title": "Drawing Lessons from the Great Masters",
-    "asin": "0486270607",
-    "image_id": "41NJYv9W2UL",
-    "description": "Analyzes and teaches techniques used by the world’s most famous artists."
-  },
-  {
-    "title": "Sketching from the Imagination",
-    "asin": "1780677031",
-    "image_id": "41dH+ZP6F4L",
-    "description": "A collection of inspiring sketches from artists worldwide to ignite your imagination."
-  },
-  {
-    "title": "Digital Painting Techniques",
-    "asin": "1440334794",
-    "image_id": "41G6E6vK6LL",
-    "description": "A practical guide to creating digital illustrations using modern software tools."
-  },
-  {
-    "title": "The Art Book",
-    "asin": "0714864640",
-    "image_id": "41G6Nz1bFHL",
-    "description": "An A-Z overview of major artists, movements, and masterpieces throughout history."
-  },
-  {
-    "title": "Drawing Basics and Video Game Art",
-    "asin": "1631595181",
-    "image_id": "41A2OYVLqLL",
-    "description": "A guide for learning fundamental drawing techniques applied to video game art."
-  },
-  {
-    "title": "The Complete Guide to Anatomy for Artists & Illustrators",
-    "asin": "048648473X",
-    "image_id": "41JzHfA5YKL",
-    "description": "A comprehensive anatomy reference for artists of all levels."
-  },
-  {
-    "title": "Illustration School: Let's Draw!",
-    "asin": "1440339268",
-    "image_id": "41b8Z3J+3WL",
-    "description": "A fun, beginner-friendly guide to learning illustration through step-by-step exercises."
-  },
-  {
-    "title": "The Art of Beatrix Potter (Expanded Edition)",
-    "asin": "0811866981",
-    "image_id": "51kj1w2vPCL",
-    "description": "Expanded edition showcasing more of Beatrix Potter’s artwork and creative process."
-  }
+  { "asin": "0300179359", "title": "Interaction of Color", "author": "Josef Albers", "description": "The definitive guide to color theory and practice.", "amazonUrl": "https://www.amazon.com/dp/0300179359" },
+  { "asin": "0140135154", "title": "Ways of Seeing", "author": "John Berger", "description": "A classic on how we look at art and visual culture.", "amazonUrl": "https://www.amazon.com/dp/0140135154" },
+  { "asin": "0714832472", "title": "The Story of Art", "author": "E.H. Gombrich", "description": "The most famous and popular book on art ever written.", "amazonUrl": "https://www.amazon.com/dp/0714832472" },
+  { "asin": "0823015203", "title": "Color and Light", "author": "James Gurney", "description": "Essential guide for the realist painter.", "amazonUrl": "https://www.amazon.com/dp/0823015203" },
+  { "asin": "0761169253", "title": "Steal Like an Artist", "author": "Austin Kleon", "description": "10 things nobody told you about being creative.", "amazonUrl": "https://www.amazon.com/dp/0761169253" },
+  { "asin": "1585429201", "title": "Drawing on the Right Side of the Brain", "author": "Betty Edwards", "description": "The world's most widely used drawing instruction book.", "amazonUrl": "https://www.amazon.com/dp/1585429201" },
+  { "asin": "1624650034", "title": "How to Render", "author": "Scott Robertson", "description": "Mastering the fundamentals of light, shadow, and reflectivity.", "amazonUrl": "https://www.amazon.com/dp/1624650034" },
+  { "asin": "1624650301", "title": "How to Draw", "author": "Scott Robertson", "description": "Drawing and sketching objects and environments from your imagination.", "amazonUrl": "https://www.amazon.com/dp/1624650301" },
+  { "asin": "1782202364", "title": "Anatomy for Sculptors", "author": "Uldis Zarins", "description": "Understanding the human figure in 3D.", "amazonUrl": "https://www.amazon.com/dp/1782202364" },
+  { "asin": "1607742322", "title": "The Art of Creative Rebellion", "author": "John S. Couch", "description": "A guide to maintaining your creative soul in a corporate world.", "amazonUrl": "https://www.amazon.com/dp/1607742322" },
+  { "asin": "0500293914", "title": "History of Modern Art", "author": "H. H. Arnason", "description": "The comprehensive survey of modernism.", "amazonUrl": "https://www.amazon.com/dp/0500293914" },
+  { "asin": "1419735919", "title": "Everything Is Art", "author": "KAWS", "description": "A deep dive into the world of KAWS.", "amazonUrl": "https://www.amazon.com/dp/1419735919" },
+  { "asin": "0399580197", "title": "The Art of Living", "author": "Thich Nhat Hanh", "description": "Seven transformative meditations for a mindful life.", "amazonUrl": "https://www.amazon.com/dp/0399580197" },
+  { "asin": "0823005232", "title": "Burne Hogarth's Dynamic Figure Drawing", "author": "Burne Hogarth", "description": "A revolutionary system for figure drawing.", "amazonUrl": "https://www.amazon.com/dp/0823005232" },
+  { "asin": "145213521X", "title": "The Art of Pixar", "author": "Amid Amidi", "description": "The complete color scripts and select art from 25 years of animation.", "amazonUrl": "https://www.amazon.com/dp/145213521X" },
+  { "asin": "0500288856", "title": "The Art Book", "author": "Phaidon Editors", "description": "A-to-Z guide to the world's greatest painters.", "amazonUrl": "https://www.amazon.com/dp/0500288856" },
+  { "asin": "014310540X", "title": "The Letters of Vincent van Gogh", "author": "Vincent van Gogh", "description": "The intimate thoughts of a master artist.", "amazonUrl": "https://www.amazon.com/dp/014310540X" },
+  { "asin": "0142437115", "title": "The Lives of the Artists", "author": "Giorgio Vasari", "description": "The fundamental text of art history.", "amazonUrl": "https://www.amazon.com/dp/0142437115" },
+  { "asin": "0500294724", "title": "Street Art Now", "author": "Caleb Neelon", "description": "The state of street art globally.", "amazonUrl": "https://www.amazon.com/dp/0500294724" },
+  { "asin": "1506721087", "title": "The Art of Elden Ring", "author": "FromSoftware", "description": "The breathtaking design work behind the masterpiece game.", "amazonUrl": "https://www.amazon.com/dp/1506721087" },
+  { "asin": "0500238492", "title": "David Hockney: A Bigger Message", "author": "Martin Gayford", "description": "Conversations with David Hockney.", "amazonUrl": "https://www.amazon.com/dp/0500238492" },
+  { "asin": "0300222734", "title": "Francis Bacon: Catalog Raisonné", "author": "Martin Harrison", "description": "The definitive collection of Bacon's works.", "amazonUrl": "https://www.amazon.com/dp/0300222734" },
+  { "asin": "0714875295", "title": "Annie Leibovitz: Portraits 2005-2016", "author": "Annie Leibovitz", "description": "Stunning photography from a living legend.", "amazonUrl": "https://www.amazon.com/dp/0714875295" },
+  { "asin": "1594488358", "title": "The Creative Habit", "author": "Twyla Tharp", "description": "Learn it and use it for life.", "amazonUrl": "https://www.amazon.com/dp/1594488358" },
+  { "asin": "1419741161", "title": "The Art of Mondo", "author": "Mondo", "description": "Collection of iconic poster art.", "amazonUrl": "https://www.amazon.com/dp/1419741161" },
+  { "asin": "0810935272", "title": "The Art of Walt Disney", "author": "Christopher Finch", "description": "The history of Disney animation.", "amazonUrl": "https://www.amazon.com/dp/0810935272" },
+  { "asin": "0823030385", "title": "The New Oil Painter", "author": "Kimberly Brooks", "description": "Modern methods for the traditional medium.", "amazonUrl": "https://www.amazon.com/dp/0823030385" },
+  { "asin": "0500294627", "title": "Great Women Artists", "author": "Phaidon Editors", "description": "The most comprehensive book of women artists ever published.", "amazonUrl": "https://www.amazon.com/dp/0500294627" },
+  { "asin": "0823012018", "title": "The Artist's Way", "author": "Julia Cameron", "description": "A spiritual path to higher creativity.", "amazonUrl": "https://www.amazon.com/dp/0823012018" },
+  { "asin": "1633221319", "title": "Art of Coloring: Disney Villains", "author": "Disney", "description": "Intricate designs for creativity.", "amazonUrl": "https://www.amazon.com/dp/1633221319" },
+  { "asin": "0810994120", "title": "The Art of the Steal", "author": "Christopher Mason", "description": "The Sotheby's-Christie's price-fixing scandal.", "amazonUrl": "https://www.amazon.com/dp/0810994120" },
+  { "asin": "1452182242", "title": "Art Matters", "author": "Neil Gaiman", "description": "Because your imagination can change the world.", "amazonUrl": "https://www.amazon.com/dp/1452182242" },
+  { "asin": "0500293736", "title": "The Art of Fine Enameling", "author": "Karen L. Cohen", "description": "Techniques for the jewelry artist.", "amazonUrl": "https://www.amazon.com/dp/0500293736" },
+  { "asin": "0714878294", "title": "JR: Can Art Change the World?", "author": "JR", "description": "The first major monograph on the street artist.", "amazonUrl": "https://www.amazon.com/dp/0714878294" },
+  { "asin": "0143126393", "title": "Big Magic", "author": "Elizabeth Gilbert", "description": "Creative living beyond fear.", "amazonUrl": "https://www.amazon.com/dp/0143126393" },
+  { "asin": "0810941167", "title": "Yayoi Kusama: All About My Love", "author": "Yayoi Kusama", "description": "The vibrant world of dots and mirrors.", "amazonUrl": "https://www.amazon.com/dp/0810941167" },
+  { "asin": "1506721109", "title": "The Art of Cuphead", "author": "Studio MDHR", "description": "Traditional hand-drawn animation in games.", "amazonUrl": "https://www.amazon.com/dp/1506721109" },
+  { "asin": "1452122231", "title": "Art of Star Wars: The Mandalorian", "author": "Phil Szostak", "description": "The concept art for the hit series.", "amazonUrl": "https://www.amazon.com/dp/1452122231" },
+  { "asin": "0500294112", "title": "Jean-Michel Basquiat", "author": "Eleanor Nairne", "description": "The life and work of the neo-expressionist.", "amazonUrl": "https://www.amazon.com/dp/0500294112" },
+  { "asin": "0714874477", "title": "Lucian Freud", "author": "David Dawson", "description": "The ultimate Lucian Freud monograph.", "amazonUrl": "https://www.amazon.com/dp/0714874477" },
+  { "asin": "141973274X", "title": "The Art of Spider-Man: Into the Spider-Verse", "author": "Ramin Zahed", "description": "The visual development of the revolutionary film.", "amazonUrl": "https://www.amazon.com/dp/141973274X" },
+  { "asin": "1506733158", "title": "The Art of Horizon Forbidden West", "author": "Guerrilla Games", "description": "Epic landscapes and machine designs.", "amazonUrl": "https://www.amazon.com/dp/1506733158" },
+  { "asin": "0847864436", "title": "Virgil Abloh: Figures of Speech", "author": "Virgil Abloh", "description": "The multidisciplinary work of Abloh.", "amazonUrl": "https://www.amazon.com/dp/0847864436" },
+  { "asin": "0500239316", "title": "Grayson Perry: Portrait of the Artist", "author": "Grayson Perry", "description": "Tapestries and ceramics of a British icon.", "amazonUrl": "https://www.amazon.com/dp/0500239316" },
+  { "asin": "162465031X", "title": "Framed Ink", "author": "Marcos Mateu-Mestre", "description": "Drawing and composition for visual storytellers.", "amazonUrl": "https://www.amazon.com/dp/162465031X" },
+  { "asin": "0714874493", "title": "Banksy: You Are an Acceptable Level of Threat", "author": "Patrick Potter", "description": "A deep look at the street artist's career.", "amazonUrl": "https://www.amazon.com/dp/0714874493" },
+  { "asin": "0810996344", "title": "The Art of Tim Burton", "author": "Leah Gallo", "description": "Comprehensive look at Burton's sketches.", "amazonUrl": "https://www.amazon.com/dp/0810996344" },
+  { "asin": "0500293906", "title": "The Art of Modern China", "author": "Julia F. Andrews", "description": "History of Chinese art in the 20th century.", "amazonUrl": "https://www.amazon.com/dp/0500293906" },
+  { "asin": "0714875325", "title": "Vitamin C: Clay and Ceramics", "author": "Phaidon Editors", "description": "Contemporary artists working with clay.", "amazonUrl": "https://www.amazon.com/dp/0714875325" },
+  { "asin": "1452171054", "title": "The Art of Game of Thrones", "author": "Deborah Riley", "description": "Design and production of the epic series.", "amazonUrl": "https://www.amazon.com/dp/1452171054" }
 ]
